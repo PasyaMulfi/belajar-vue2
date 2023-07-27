@@ -4,7 +4,7 @@
         <div class="md:flex md:justify-between">
           <div class="mb-6 md:mb-0">
               <a href="https://flowbite.com/" class="flex items-center">
-                  <img src="kickavenue.jpg" class="h-8 mr-3" alt="FlowBite Logo" />
+                  <img src="../assets/images/kickavenue.jpg" class="h-8 mr-3" alt="FlowBite Logo" />
                   <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Kickavenue</span>
               </a>
           </div>

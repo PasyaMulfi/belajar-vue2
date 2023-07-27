@@ -5,7 +5,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
     <Navbar>
         <template #logo>
             <NavbarLogo link="https://www.google.com/" alt="Flowbite logo"
-                image-url="kickavenue.jpg">
+                image-url="https://play-lh.googleusercontent.com/7CL8WfXiGVF_GO-KQv65qTAryEjbqvLm8RLOdhjRUTsITwypN6Ynx0gJ1t3zrqSmUO0=w240-h480-rw">
                 kickavenue
             </NavbarLogo>
         </template>
